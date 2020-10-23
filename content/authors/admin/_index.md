@@ -40,6 +40,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Bio goes here. 
+Taylor is a cutie!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
