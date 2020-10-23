@@ -12,9 +12,9 @@ practices conducted by meta-analysts that are ultimately not reported; (b) some 
 to be conducted at disappointingly low rates; and (c) the adoption of the reporting standards, including the Meta-Analytic
 Reporting Standards (MARS), has been slow to nonexistent within psychological meta-analytic research."
 authors:
+- admin
 - Kathleen L. Slaney
 - Donna Tafreshi
-- admin
 date: "2020-09-01"
 doi: "10.1177/1089268020918844"
 featured: false
