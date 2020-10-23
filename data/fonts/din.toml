@@ -1,0 +1,9 @@
+# Font style metadata
+name = "DIN"
+
+
+# Font families
+heading_font = "DIN Alternate"
+body_font = "Karla"
+nav_font = "DIN Alternate"
+mono_font = "Roboto Mono"
