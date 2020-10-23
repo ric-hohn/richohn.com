@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Richard E. Hohn</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Review of Research and Reporting Practices in Psychological Meta-Analyses</title>
+      <link>/publication/ma3/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ma3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construct Validity of the Comprehensive Assessment of Psychopathic Personality (CAPP): Examining the Internal Structure and Generalizability of CAPP Self-Ratings Across Gender and Ethnicity</title>
+      <link>/publication/capp-sr/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/capp-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Study Quality in Psychological Meta-Analyses: An Empirical Assessment of Recent Practice</title>
+      <link>/publication/ma2/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ma2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random or Fixed? An Empirical Examination of Meta-Analysis Model Choices</title>
+      <link>/publication/ma1/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ma1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
