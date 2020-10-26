@@ -4,6 +4,6 @@ name = "DIN"
 
 # Font families
 heading_font = "DIN Alternate"
-body_font = "Karla"
+body_font = "Overpass"
 nav_font = "DIN Alternate"
 mono_font = "Roboto Mono"
