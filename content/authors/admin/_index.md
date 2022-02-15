@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD Student in Psychology
     institution: Simon Fraser University
-    year: 2020
+    year: Present
   - course: MA in Experimental Psychology
     institution: James Madison University
     year: 2015
@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Simon Fraser University
   url: https://www.sfu.ca/psychology.html
-role: PhD Student
+role: PhD Candidate
 social:
 - icon: google-scholar
   icon_pack: ai
@@ -35,6 +35,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Bio goes here...
+I am a PhD Candidate in the History, Quantitative, and Theoretical Psychology program at Simon Fraser University. My work alternates between empirical research in human judgment and decision making, conceptual issues in psychological methodology, and concerns raised in psychology from philosophy of science perspectives.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

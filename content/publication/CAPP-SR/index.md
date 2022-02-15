@@ -8,8 +8,8 @@ authors:
 date: "2020-07-24"
 doi: "10.1177/1073191120922621"
 featured: false
-projects: ["Meta-Analysis Research Practices"]
-publication: '*Assessment, in press*'
+projects: ["Comprehensive Assessment of Psychopathic Personality (CAPP)"]
+publication: '*Assessment*'
 publication_short: ""
 publication_types:
 - "2"
