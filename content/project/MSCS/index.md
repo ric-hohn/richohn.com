@@ -1,12 +1,12 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-2019"
 external_link: ""
 image:
   caption:
   focal_point: Smart
 links:
 slides:
-summary: An example of using the in-built project page.
+summary:
 tags:
 - psychometrics
 title: Multidimensional Social Competency Scale (MSCS)
@@ -15,5 +15,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-MSCS project.

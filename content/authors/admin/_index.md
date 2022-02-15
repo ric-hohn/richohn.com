@@ -2,7 +2,7 @@
 bio: 
 education:
   courses:
-  - course: PhD Student in Psychology
+  - course: PhD Candidate in Psychology
     institution: Simon Fraser University
     year: Present
   - course: MA in Experimental Psychology
@@ -35,8 +35,9 @@ user_groups:
 - Principal Investigators
 ---
 
-=======
+I am a PhD Candidate in the History, Quantitative, and Theoretical Psychology program at Simon Fraser University. My research alternates between applied psychometric projects, metascientific work exploring conceptual and practical issues in research methodology, and philosophical work related to quantification and measurement in psychological science. My other interests include data science and visualization, primarily via R statistical programming. 
 
-I am a PhD Candidate in the History, Quantitative, and Theoretical Psychology program at Simon Fraser University. My work alternates between empirical research in human judgment and decision making, conceptual issues in psychological methodology, and concerns raised in psychology from philosophy of science perspectives.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="file" pack="fas" >}} {{< staticref "files/CV.html" "newtab" >}}View my full CV online{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "files/CV.pdf" "newtab" >}}Download a PDF copy of my CV{{< /staticref >}}.
