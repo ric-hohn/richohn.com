@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Robert C. Brown Hall 5346, 8888 University Drive", city = "Burnaby", region = "BC", postcode = "V5A 1S6", country = "Canada", country_code = "CAN"}
+address = {street = "Robert C. Brown Hall 5246, 8888 University Drive", city = "Burnaby", region = "BC", postcode = "V5A 1S6", country = "Canada", country_code = "CAN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
