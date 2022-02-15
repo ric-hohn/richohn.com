@@ -36,7 +36,11 @@ user_groups:
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am a PhD Candidate in the History, Quantitative, and Theoretical Psychology program at Simon Fraser University. My work alternates between empirical research in human judgment and decision making, conceptual issues in psychological methodology, and concerns raised in psychology from philosophy of science perspectives.
+=======
+Bio goes here...
+>>>>>>> e38ba07c12f4666a5ddb3835147db1be2fcd583d
 =======
 Bio goes here...
 >>>>>>> e38ba07c12f4666a5ddb3835147db1be2fcd583d
